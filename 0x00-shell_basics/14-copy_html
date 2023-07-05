@@ -1,2 +1,2 @@
-[Got] -rw-r--r-- 1 root root 0  /tmp/file_0.html -rw-r--r-- 1 root root 0  /tmp/file_1.html  (86 chars long)  [Expected] -rw-r--r-- 1 root root 0  /tmp/file_0.html -rw-r--r-- 1 root root 0  /tmp/file_1.html -rw-r--r-- 
-1 root root 0  /tmp/file_2.html
+#!/bin/bash
+cp -u *.html
