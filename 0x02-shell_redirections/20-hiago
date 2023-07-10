@@ -1,1 +1,1 @@
-tr -d "cC"
+tr -d "c C"
